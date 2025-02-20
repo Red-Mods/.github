@@ -3,8 +3,7 @@
 Welcome to Red Mods organization !
 
 ## What is Red Mods ?
-**Red Mods** is an organization made by [@K3rhos](https://github.com/K3rhos) and some other members of my team, the main purpose of this organization is to share resources & knowledge to other developers regarding game modding.
-And of course, we encourage ppls to help us improving our repositories in return.
+**Red Mods** is an organization made by [@K3rhos](https://github.com/K3rhos) and some other members of my team, the main purpose of this organization is to share resources & knowledge to other developers regarding game modding and so you (the community) can also help us in return improving our repositories.
 
 ## Why this name 'Red Mods' ?
 Initially Red Mods was intended to be related exclusively with **Red Dead Redemption**, but this has been extended to be around game modding in general. Especially on **Rockstar Games** titles.
